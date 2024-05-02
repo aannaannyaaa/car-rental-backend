@@ -11,6 +11,9 @@ In this project we have developed a comprehensive system for managing car rental
 * [@aannaannyaaa](https://github.com/aannaannyaaa) Ananya
 * [@garvit420](https://github.com/garvit420) Garvit
 
+## Model Schema
+![Screenshot 2024-05-02 134309](https://github.com/arthurW1935/car-rental-backend/assets/148946999/c3d8a3f8-07ad-448e-bb15-8bdad7cbbd62)
+
 ## Installation
 * Clone the repository to your local machine using the command ` git clone https://github.com/arthurW1935/car-rental-backend.git `.
 * We recommend installing an IDE for this project. We used [IntelliJ](https://www.jetbrains.com/idea/).
